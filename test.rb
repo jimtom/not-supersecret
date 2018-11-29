@@ -1,3 +1,3 @@
-def just_a_test .        
-  puts "testttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt"
+class Test
+  TEST = "testing"           
 end
